@@ -1,5 +1,7 @@
-# MySQL Cheat Sheet
 
+# MySQL Cheat Sheet
+# original link / original repository
+## https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3
 > Help with SQL commands to interact with a MySQL database
 
 ## MySQL Locations
